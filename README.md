@@ -14,7 +14,7 @@ npm install protractor-cucumber --save-dev
 ## Usage
 
 
-#### Install Cucumber
+#### Install Cucumber1
 
 ``` npm install -g cucumber ```
 
@@ -22,7 +22,7 @@ npm install protractor-cucumber --save-dev
 
 ``` npm install -g protractor ```
 
-#### Update webdriver
+#### Update webdriver1
 
 ``` webdriver-manager update ```
 
